@@ -1,9 +1,4 @@
-<center>
-  <h1>
-  _________________<br>
-   | Luiz Antonio |<br>
-  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</h1>
-</center>
+
 
 <!--
 **luizblank/luizblank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
