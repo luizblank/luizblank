@@ -1,6 +1,7 @@
-<img
-  src="https://i.pinimg.com/originals/06/ca/aa/06caaa87f916fe7354fcff4c268e58c5.gif"
-  style="margin-left=50%">
+<p align='center'>
+  <img src='https://i.pinimg.com/originals/06/ca/aa/06caaa87f916fe7354fcff4c268e58c5.gif'>
+</p>
+
 <!--
 **luizblank/luizblank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
