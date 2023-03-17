@@ -1,5 +1,5 @@
 <p align='center'>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luiz%20Antonio&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)]  (https://git.io/streak-stats)
+  [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luiz%20Antonio&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&type=png)]  (https://git.io/streak-stats)
   <img src='https://i.pinimg.com/originals/06/ca/aa/06caaa87f916fe7354fcff4c268e58c5.gif'>
 </p>
 
