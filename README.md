@@ -1,13 +1,13 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luizblank&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-  
-<div align='center'>
+ 
+<div>
   - 🦾 Currently working at Bosch (Paraná, Brazil) <br>
   - 👨‍💻 Learning about Git <br>
   - 👨‍🎓 Web Developer and System Development courses<br>
   - 📫 How to reach me: luizrosacardoso@gmail.com<br>
-  <img src='https://i.pinimg.com/originals/06/ca/aa/06caaa87f916fe7354fcff4c268e58c5.gif' align='top'>
 </div>
 
+<img src='https://i.pinimg.com/originals/06/ca/aa/06caaa87f916fe7354fcff4c268e58c5.gif' align='top'>
 
 <!--
 **luizblank/luizblank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
