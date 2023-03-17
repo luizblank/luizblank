@@ -3,7 +3,8 @@
 <div>
   - 🦾 Currently working at Bosch (Paraná, Brazil) <br>
   - 👨‍💻 Learning about Git <br>
-  - 👨‍🎓 Web Developer and System Development courses<br>
+  - 👨‍🎓 Web Developer course concluded<br>
+  - 💻 Taking a System Development course<br>
   - 📫 How to reach me: luizrosacardoso@gmail.com<br>
 </div>
 
