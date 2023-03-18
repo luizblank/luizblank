@@ -1,7 +1,7 @@
 <div align='center'>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luizblank&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-<br><br>
+<br>
 </div>
 
 <div align='center'>
@@ -15,6 +15,6 @@
 </div>
 
 <div align='center'>
-<br><br>
+<br>
 <img src='parrot circle.gif' align='top' width=500 height=500>
 </div>
