@@ -16,5 +16,5 @@
 
 <div align='center'>
 <br><br>
-<img id='circle' src='parrot.gif' align='top'>
+<img src='parrot.gif' align='top'>
 </div>
