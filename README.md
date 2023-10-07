@@ -1,6 +1,6 @@
 <div align='center'>
 /-------=====<<<<<{{{[@]}}}>>>>>=====-------\<br><br>
-👨‍💻 Learning IoT<br>
+👨‍💻 Learning C#<br>
 👨‍🎓 Web Developer course concluded<br>
 💻 Taking a System Development course<br>
 🦾 Currently working at Bosch (Paraná, Brazil)<br>
