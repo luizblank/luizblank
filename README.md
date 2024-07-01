@@ -2,8 +2,6 @@
   👨‍🎓 Web Developer course concluded<br>
   💻 System Development course concluded<br>
   🦾 Currently working at Bosch (Paraná, Brazil)<br>
-  📫 How to reach me: luizrosacardoso@gmail.com<br>
-  ———————————————————————<br>
 </div>
 
 <br>
