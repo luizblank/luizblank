@@ -1,5 +1,4 @@
 <div align="center">
-  ———————————————————————<br>
   👨‍🎓 Web Developer course concluded<br>
   💻 System Development course concluded<br>
   🦾 Currently working at Bosch (Paraná, Brazil)<br>
