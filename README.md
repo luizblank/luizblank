@@ -1,7 +1,7 @@
 <div align="center">
   👨‍🎓 Web Developer course concluded<br>
   💻 System Development course concluded<br>
-  🦾 Currently working at Bosch (Paraná, Brazil)<br>
+  🦾 Currently working as freelancer<br>
 </div>
 
 <br>
